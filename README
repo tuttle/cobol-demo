@@ -1,0 +1,10 @@
+These little COBOL programs demonstrate some simple programming tasks.
+
+OpenCOBOL for Linux can be used to compile to ELF executable like this:
+
+    $ cobc -free -x -o seq_read seq_read.cbl
+
+There is also a neat IDE called Open COBOL IDE written in Python 3 available
+as a package python3-opencobolide.
+
+Have fun.
